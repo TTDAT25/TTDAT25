@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/TTDAT25/TTDAT25/assets/97098580/6cedc784-ac2e-4b4f-87ce-df8657aaca22" alt="Markdownify" width="200">
+  <img src="https://github.com/TTDAT25/TTDAT25/assets/97098580/33085d9d-abfa-48f9-bde3-f5d2d8cac63a" alt="Markdownify" width="200">
   <br>
-  Trương Thành Đạt
+   Hi! I'm Truong Thanh Dat
   <br>
   <img align="center" src="https://24.media.tumblr.com/245f521ebb6f18153490587f70492f4d/tumblr_mmm85kOfvj1s8f329o1_250.gif" alt="Markdownify" width="200">
 </h1>
