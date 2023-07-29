@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Truong Thanh Dat</h1>
-<h3 align="center">Java developer from Viet Nam</h3>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Truong+Thanh+Dat;Java+developer+from+Viet+Nam" alt="Typing SVG" /></a></h1>
+
+
 <h1 align="center">
 <img  src="https://24.media.tumblr.com/245f521ebb6f18153490587f70492f4d/tumblr_mmm85kOfvj1s8f329o1_250.gif" alt="Markdownify" width="200">
 </h1>
@@ -24,3 +26,24 @@
 <h1 align="center">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttdat25&show_icons=true&locale=en&layout=compact" alt="ttdat25" /></p>
 </h1>
+
+<div>
+<h1 align="rigth">
+<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
+</h1>
+
+<h1 align="left">
+<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
+</h1>
+</div>
+
+[![]()](https://github.com/TTDAT25/EOA)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=DAS_Courses&theme=tokyonight)](https://github.com/TTDAT25/DAS_Courses)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=BlockChainMotoko&theme=tokyonight)](https://github.com/TTDAT25/BlockChainMotoko)
+
+[![](https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=DAS_Courses&theme=tokyonight)](https://github.com/TTDAT25/DAS_Courses)
+
+
+
