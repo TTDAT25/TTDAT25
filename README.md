@@ -28,13 +28,11 @@
 </h1>
 
 <div>
-<h1 align="rigth">
-<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
-</h1>
 
-<h1 align="left">
 <a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
-</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
+
 </div>
 
 [![]()](https://github.com/TTDAT25/EOA)
