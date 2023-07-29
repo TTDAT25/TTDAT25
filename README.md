@@ -31,15 +31,15 @@
 <a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=EOA&theme=tokyonight" alt="Typing SVG" /></a>
 </div>
 
-
+&nbsp;&nbsp;
 <div  align="center">
-<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=Java4&theme=tokyonight" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=Java4&theme=tokyonight" alt="Typing SVG" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=DAS_Courses&theme=tokyonight" alt="Typing SVG" /></a>
 </div>
 
-
+&nbsp;&nbsp;
 <div  align="center">
-<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=BlockChainMotoko&theme=tokyonight" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=BlockChainMotoko&theme=tokyonight" alt="Typing SVG" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://github-readme-stats.vercel.app/api/pin?username=TTDAT25&repo=Frameworks_Angularjs_Bootstrap5&theme=tokyonight" alt="Typing SVG" /></a>
 </div>
 
